@@ -1,0 +1,19 @@
+
+This is a Analog clock which is developed using pure HTML, CSS , Java-Script.
+
+
+• The whole Mathamatical operation done with Java-Script.
+• Designs are done by CSS.
+
+
+-------------------------------------------------------------------------------------
+
+Now You Have a Digital Analog Clock........ :)
+
+• Follow me on GIT-HUB :)
+
+						
+Thank You,
+Subhajit Mondal
+
+						©Subhajit Mondal
